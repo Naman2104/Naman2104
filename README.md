@@ -3,8 +3,6 @@
 This is the github repository of Naman Yadav.
 <!--**Naman2104/Naman2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently focusing to enhance my **Competitive Coding Skills** and **Technical Skills**.
 - 🌱 I have worked over different technologies - 
 
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
            ✨ Django, Spark java, JavaScript
            
            🎡 DBMS, Mysql, Firebase
-- 📫 How to reach me: LinkedIn or Email
+- 📫 How to reach me: <a href="#">LinkedIn or Email
 
 ### About Me 🧑
 - 📝 I am a **passionate Coder** and **active learner**. I 
