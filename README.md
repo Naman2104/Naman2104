@@ -12,7 +12,7 @@ Here are some ideas to get you started:
            🎡 DBMS, Mysql, Firebase
 - 📫 How to reach me: LinkedIn or Email
 
-### About Me
-I am a **passionate Coder** and **active learner**. I 
-My interests lies in working on real world problems and to make better technical solutions.
-Currently, my objective is to make career in a leading company having high-tech environment with committed and dedicated people which help me to explore my talent and realize my potential willing to work as a key player in challenging and working environment of the company.
+### About Me 🧑
+- 📝 I am a **passionate Coder** and **active learner**. I 
+- 💻 My interests lies in working on real world problems and to make better technical solutions.
+- 🧐 Currently, my objective is to make career in a leading company having high-tech environment with committed and dedicated people which help me to explore my talent and realize my potential willing to work as a key player in challenging and working environment of the company.
