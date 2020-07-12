@@ -11,7 +11,7 @@ This is the github repository of Naman Yadav.
            ✨ Django, Spark java, JavaScript
            
            🎡 DBMS, Mysql, Firebase
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/naman-2104/">LinkedIn</a> or <a href="namanyadav2104@gmail.com">Email</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/naman-2104/">LinkedIn</a> or Email - namanyadav2104@gmail.com
 
 ### About Me 🧑
 - 📝 I am a **passionate Coder** and **active learner**. I 
