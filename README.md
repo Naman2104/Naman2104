@@ -7,8 +7,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently focusing to enhance my **Competitive Coding Skills** and **Technical Skills**.
 - 🌱 I have worked over different technologies - 
-           👯 Languages - Java, Python, C++.
-           ✨ Django, Spark java, JavaScript 
+
+           👯 Languages - Java, Python, C++
+           
+           ✨ Django, Spark java, JavaScript
+           
            🎡 DBMS, Mysql, Firebase
 - 📫 How to reach me: LinkedIn or Email
 
