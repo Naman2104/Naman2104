@@ -14,6 +14,6 @@ This is the github repository of Naman Yadav.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/naman-2104/">LinkedIn</a> or Email - namanyadav2104@gmail.com 
 
 ### About Me 🧑
-- 📝 I am a **passionate Coder** and **active learner**. I 
+- 📝 I am a **passionate Coder** and **active learner**. 
 - 💻 My interests lies in working on real world problems and to make better technical solutions.
 - 🧐 Currently, my objective is to make career in a leading company having high-tech environment with committed and dedicated people which help me to explore my talent and realize my potential willing to work as a key player in challenging and working environment of the company.
