@@ -6,9 +6,9 @@ This is the github repository of Naman Yadav.
 - 🔭 I’m currently focusing to enhance my **Competitive Coding Skills** and **Technical Skills**.
 - 🌱 I have worked over different technologies - 
 
-           👯 Languages - Java, Python, C++
+           👯 Languages - Java, Python, C++, JavaScript
            
-           ✨ Django, Spark java, JavaScript
+           ✨ Frameworks - Django, Spark java
            
            🎡 DBMS, Mysql, Firebase
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/naman-2104/">LinkedIn</a> or Email - namanyadav2104@gmail.com 
