@@ -1,6 +1,6 @@
 ### Hello All 👋
 
-This is the github repository of Naman Yadav.
+This is the github account of Naman Yadav.
 <!--**Naman2104/Naman2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently focusing to enhance my **Competitive Coding Skills** and **Technical Skills**.
